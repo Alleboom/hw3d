@@ -63,3 +63,4 @@
 #define STRICT
 
 #include <Windows.h>
+#include <string>
